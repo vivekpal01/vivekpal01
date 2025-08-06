@@ -15,15 +15,19 @@
  🌱 Learning how to speak fluent Japanese and fluent JavaScript (one is slightly harder 😅)
 
 💬 Ask me about Python, AI/ML, SQL, or how to convince an AI that Monday isn’t the worst day of the week 🤖😩
-
+</div>
+<div align="right">
 📂 Built:
 
 — A Voice Assistant that understands me better than my friends
+
 — A Game AI that refuses to lose (even to me)
+
 — A gold price predictor... still waiting for it to predict my salary 📉💸
 
-⚡ Fun Fact: I once asked ChatGPT to write my bio... and now here we are 😎
-
+ </div>
+ <div align="center">
+ ⚡ Fun Fact: I once asked ChatGPT to write my bio... and now here we are 😎
  </div>
  
 <div align="center"> 
