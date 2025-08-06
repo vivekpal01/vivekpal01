@@ -4,19 +4,23 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vivek+Pal!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A curious tech explorer </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 Currently analyzing numbers by day ☕, building AI dreams by night 🌙
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 Learning how to speak fluent Japanese and fluent JavaScript (one is slightly harder 😅)
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about Python, AI/ML, SQL, or how to convince an AI that Monday isn’t the worst day of the week 🤖😩
+📂 Built:
+— A Voice Assistant that understands me better than my friends
+— A Game AI that refuses to lose (even to me)
+— A gold price predictor... still waiting for it to predict my salary 📉💸
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun Fact: I once asked ChatGPT to write my bio... and now here we are 😎
 
  </div>
  
