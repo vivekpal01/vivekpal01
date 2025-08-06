@@ -15,7 +15,9 @@
  🌱 Learning how to speak fluent Japanese and fluent JavaScript (one is slightly harder 😅)
 
 💬 Ask me about Python, AI/ML, SQL, or how to convince an AI that Monday isn’t the worst day of the week 🤖😩
+
 📂 Built:
+
 — A Voice Assistant that understands me better than my friends
 — A Game AI that refuses to lose (even to me)
 — A gold price predictor... still waiting for it to predict my salary 📉💸
