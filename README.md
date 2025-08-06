@@ -16,7 +16,7 @@
 
 💬 Ask me about Python, AI/ML, SQL, or how to convince an AI that Monday isn’t the worst day of the week 🤖😩
 </div>
-<div align="right">
+<div align="left">
 📂 Built:
 
 — A Voice Assistant that understands me better than my friends
