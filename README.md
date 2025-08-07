@@ -80,7 +80,7 @@
 <br/>
 
 <div align="center">
-<a href='https://linktr.ee/vivekpal00' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://linktr.ee/vivekpal00' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
   <h3>💡 Code, chaos, and late-night debugging — I post it all.</h3>
 <h5>(Click on the GIF above to follow the madness across all platforms)</h5>
 </div>
