@@ -70,7 +70,7 @@
   <img width=390 src="https://streak-stats.vercel.app?user=vivekpal01&theme=radical&border_radius=4.3&count_private=true" alt="GitHub Streak"/>
   <img width=390 src="https://github-stats-extended.vercel.app/api?username=vivekpal01&theme=highcontrast&show_icons=true&hide_border=false&show=contributions" />
   <br/>
-  <img width=325 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vivekpal01&theme=highcontrast&show_icons=true&hide_border=false&layout=compact&count_private=true" />
+  <img width=325 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vivekpal01&theme=highcontrast&show_icons=true&hide_border=false&layout=compact&langs_count=8&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show=contributions" />
 </div>
 
 <br/><br/>
