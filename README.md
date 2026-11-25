@@ -67,7 +67,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vivekoal01&theme=tokyonight&count_private=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=vivekpal01&count_private=true&theme=tokyonight" alt="GitHub Streak" /></a>
   <img width=390 src="https://github-stats-extended.vercel.app/api?username=vivekpal01&theme=highcontrast&show_icons=true&hide_border=false&show=contributions" />
   <br/>
   <img width=325 align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vivekpal01&theme=highcontrast&show_icons=true&hide_border=false&layout=compact&langs_count=8&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show=contributions" />
